@@ -1,0 +1,95 @@
+.container{
+  background-image: url("https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg" ) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.layer{
+ background-color: rgba(0, 0, 0, 0.705);
+ height: 800px;
+ width: 100%;
+}
+.i{
+    color: white;
+    display:inline ;
+}
+.t{
+    background-color: yellow;
+    
+    width: 10%;
+    border-color: yellow;
+}
+span{
+    
+    color: yellow;
+}  
+
+p,h2{
+   color: white;
+   font-size: 50px;
+}
+.i:hover{
+    color: yellow;
+}
+button{
+    background-color: yellow;
+    border-color: yellow;
+    
+}
+.n{
+ text-align: left; 
+ left:1000px; 
+  position: relative;
+}
+.q{
+    background-color: black;
+    color: white;
+   
+}
+.l{
+    background-color: yellow;
+    height: 400px;
+    width: 50px;
+}
+.z{
+    text-align: bottom;
+    bottom:100px;
+    position: relative;
+}
+.y{
+    width: 200px;
+    height: 120px;
+    text-align: left;
+    left: 1000px;
+    top: 240px;
+    
+    position: relative;
+    background-color: yellow;
+}
+.roo{
+    position:absolute;
+    width:50px;
+    height: 500px;
+    background-color:black;
+    color: white;
+}
+.iam{
+    position:relative;
+    width:50px;
+    top: 500px;
+    height: 300px;
+    background-color:yellow;
+}
+.yam{
+    position: relative;
+    left: 200px; 
+    bottom: 90px;
+    right: 100px;
+}
+.tin{
+    position: relative;
+    bottom: 50px;
+    left:108px ;
+   
+
+}
